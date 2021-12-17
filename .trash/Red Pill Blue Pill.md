@@ -1,2 +1,0 @@
-[[First Note]]
-[[Second Note]]

@@ -33,12 +33,5 @@
       "key": "X"
     }
   ],
-  "app:open-settings": [
-    {
-      "modifiers": [
-        "Shift"
-      ],
-      "key": "Tab"
-    }
-  ]
+  "app:open-settings": []
 }
