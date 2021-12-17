@@ -1,0 +1,14 @@
+{
+  "spellcheck": true,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "showLineNumber": false,
+  "showUnsupportedFiles": false,
+  "promptDelete": false,
+  "spellcheckDictionary": [
+    "ctrl"
+  ],
+  "foldIndent": true,
+  "foldHeading": true,
+  "newFileLocation": "current"
+}

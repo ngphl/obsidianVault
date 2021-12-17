@@ -1,0 +1,1 @@
+Second note, sequel to [[First Note]]. 
