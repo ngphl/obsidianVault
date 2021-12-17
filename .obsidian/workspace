@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Untitled.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "README.md"
               }
             }
           }
@@ -169,15 +169,15 @@
   },
   "active": "39e70ae959d60b5c",
   "lastOpenFiles": [
+    "README.md",
+    "To Do List.md",
     "Untitled.md",
     "Basic of Obsidian/Testing Site.md",
     "Basic of Obsidian/Tools.md",
     "Basic of Obsidian/Dummy File.md",
     "Computer Science/Useful Material.md",
     "Basic of Obsidian/Hotkey.md",
-    "To Do List.md",
     "Computer Science/Untitled.md",
-    "Useful Materials.md",
-    "www.google.com.md"
+    "Useful Materials.md"
   ]
 }
