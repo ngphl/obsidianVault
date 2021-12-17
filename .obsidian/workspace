@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "To Do List.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -164,15 +164,15 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238.09339904785156
+    "width": 271.0934143066406
   },
   "active": "fa9ac005106321ce",
   "lastOpenFiles": [
     "To Do List.md",
-    "README.md",
     "Templates/Class Note.md",
-    "Untitled.md",
     "Templates/To Do List.md",
+    "README.md",
+    "Untitled.md",
     "Basic of Obsidian/Tools.md",
     "Basic of Obsidian/Testing Site.md",
     "Basic of Obsidian/Dummy File.md",

@@ -1,8 +1,10 @@
-
 # Topic: {{title}}
 Date: {{date:MMM d, YYYY}}
+Semester:
+Week:
 Course:
 Class:
+
 
 ---
 
