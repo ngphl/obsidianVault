@@ -1,4 +1,8 @@
+# To Do List
+
 Start Date: {{date:MMM d, YYYY}}
+
+---
 
 ## URGENT + IMPORTANT
 *Do it now*

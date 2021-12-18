@@ -15,3 +15,17 @@
 1. test
 	1. test 2
 2. but no
+
+
+```ad-note
+c
+
+```
+
+
+```ad-fail
+collapse: closed
+
+ahah
+
+```

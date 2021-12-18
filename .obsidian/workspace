@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "fa9ac005106321ce",
+        "id": "54b8bdcb5aaafc44",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "To Do List.md",
+            "file": "000 Hub.md",
             "mode": "source"
           }
         }
@@ -60,52 +60,17 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.53391647338867
+    "width": 168.49999809265137
   },
   "right": {
     "id": "9227c07d757a2dad",
     "type": "split",
     "children": [
       {
-        "id": "4bae5d80475231c4",
+        "id": "ad3bf9ffdd7ebf7d",
         "type": "tabs",
-        "dimension": 39.44954128440367,
+        "dimension": 35.02495840266223,
         "children": [
-          {
-            "id": "ce3c146cab0db55a",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "To Do List.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": true,
-                  "textFadeMultiplier": -0.4,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.7514342322277607,
-                  "close": true
-                }
-              }
-            }
-          },
           {
             "id": "fb62abe7bc882a06",
             "type": "leaf",
@@ -113,32 +78,30 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "9fb1293eb64bf172",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "6d8dd5889a153afe",
+            "type": "leaf",
+            "state": {
+              "type": "mindmap",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a3b20e352ca2f312",
         "type": "tabs",
-        "dimension": 60.550458715596335,
+        "dimension": 64.97504159733776,
         "children": [
-          {
-            "id": "54810ff8c42583dd",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "To Do List.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
           {
             "id": "aa825b5ec23c8253",
             "type": "leaf",
@@ -156,27 +119,45 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To Do List.md"
+                "file": "000 Hub.md"
+              }
+            }
+          },
+          {
+            "id": "54810ff8c42583dd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "000 Hub.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 271.0934143066406
+    "width": 425.5
   },
-  "active": "fa9ac005106321ce",
+  "active": "54b8bdcb5aaafc44",
   "lastOpenFiles": [
-    "To Do List.md",
-    "Templates/Class Note.md",
-    "Templates/To Do List.md",
+    "000 Hub.md",
     "README.md",
-    "Untitled.md",
-    "Basic of Obsidian/Tools.md",
+    "Personal/To Do List.md",
+    "Computer Science/Resources.md",
+    "Templates/Resource List.md",
+    "Templates/To Do List.md",
+    "Templates/Topic.md",
+    "Templates/Class Note.md",
     "Basic of Obsidian/Testing Site.md",
-    "Basic of Obsidian/Dummy File.md",
-    "Computer Science/Useful Material.md",
-    "Basic of Obsidian/Hotkey.md"
+    "Basic of Obsidian/Tools.md"
   ]
 }

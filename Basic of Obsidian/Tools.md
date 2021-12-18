@@ -1,4 +1,5 @@
 # Header 1
+---
 ## Header 2 and so on 
 List: 
 -	[[Testing Site]]
@@ -55,3 +56,38 @@ Comment: %%Comment%%
 ```md 
 %%Comment%%
 ```
+
+Quote:
+> "This is how to quote a quote"
+
+
+````markdown
+```ad-<type> # Admonition type. See below for a list of available types.
+title:                  # Admonition title.
+collapse:               # Create a collapsible admonition.
+icon:                   # Override the icon.
+color:                  # Override the color.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla.
+
+```
+````
+
+
+| Type     | Aliases |
+| -------- | ------- |
+| note     |         |
+| abstract |         |
+| info     |         |
+| tip      |         |
+| success  |         |
+| question |         |
+| warning  |         |
+| failure  |         |
+| danger   |         |
+| bug      |         |
+| example  |         |
+| quote    |         |
+
+
+

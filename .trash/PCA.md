@@ -1,9 +1,8 @@
-# Topic: {{title}}
-Date: {{date:MMM d, YYYY}}
-Year/Semester/Week:
+# Topic: PCA
+Date: Dec 5, 2021
+Year/Semester/Week: 3rd/Semester 2/ Week 3
+Course:
 Class:
-tags:
-status:
 
 ---
 
