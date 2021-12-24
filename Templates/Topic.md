@@ -1,14 +1,8 @@
-# {{Title}}
-Date: {{date}}
-Links:
+## {{Title}}
+Date : {{date}}
 tags: 
-status: 
 
----
-## Summary
+### Detail
 
 
-## Detail
-
-
-## Reference
+### Reference

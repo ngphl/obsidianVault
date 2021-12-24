@@ -10,5 +10,8 @@
   ],
   "foldIndent": true,
   "foldHeading": true,
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "attachmentFolderPath": "Attachment",
+  "legacyEditor": false,
+  "livePreview": true
 }

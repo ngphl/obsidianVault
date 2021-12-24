@@ -4,13 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "54b8bdcb5aaafc44",
+        "id": "c7d8f4974f05b574",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "000 Hub.md",
-            "mode": "source"
+            "file": "Computer Science & Data Science/Machine Learning by Andrew Ng/Gradient Descent.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -39,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#concept",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -60,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 168.49999809265137
+    "width": 247.5036334991455
   },
   "right": {
     "id": "9227c07d757a2dad",
@@ -84,14 +85,6 @@
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "6d8dd5889a153afe",
-            "type": "leaf",
-            "state": {
-              "type": "mindmap",
               "state": {}
             }
           }
@@ -119,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 Hub.md"
+                "file": "Computer Science & Data Science/Machine Learning by Andrew Ng/Gradient Descent.md"
               }
             }
           },
@@ -129,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 Hub.md",
+                "file": "Computer Science & Data Science/Machine Learning by Andrew Ng/Gradient Descent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,19 +138,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 425.5
+    "width": 309.5
   },
-  "active": "54b8bdcb5aaafc44",
+  "active": "c7d8f4974f05b574",
   "lastOpenFiles": [
-    "000 Hub.md",
-    "README.md",
-    "Personal/To Do List.md",
-    "Computer Science/Resources.md",
-    "Templates/Resource List.md",
-    "Templates/To Do List.md",
-    "Templates/Topic.md",
-    "Templates/Class Note.md",
-    "Basic of Obsidian/Testing Site.md",
-    "Basic of Obsidian/Tools.md"
+    "Computer Science & Data Science/Machine Learning by Andrew Ng/Gradient Descent.md",
+    "Computer Science & Data Science/Machine Learning by Andrew Ng/Cost-function.md",
+    "Basic of Obsidian/Latex Cheat sheet.md",
+    "Basic of Obsidian/Obsidian Tools.md",
+    "Computer Science & Data Science/Machine Learning by Andrew Ng/Linear Regression.md",
+    "Basic of Obsidian/Hotkey.md",
+    "Basic of Obsidian/Dummy File.md",
+    "Computer Science & Data Science/Machine Learning by Andrew Ng/Unsupervised Learning.md",
+    "Computer Science & Data Science/Machine Learning by Andrew Ng/Supervised Learning.md",
+    "Templates/MOC.md"
   ]
 }

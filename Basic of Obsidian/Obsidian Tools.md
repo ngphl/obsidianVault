@@ -1,10 +1,12 @@
 # Header 1
 ---
 ## Header 2 and so on 
+Refer here for [[Hotkey]]
+
 List: 
 -	[[Testing Site]]
 -	[[Testing Site|Custom Name]]
--	[[Tools#Header 1]]
+-	[[Obsidian Tools#Header 1]]
 -	#concept 
 -	*Italic*
 -	**Bold**
@@ -90,4 +92,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla.
 | quote    |         |
 
 
-
+$$ pi = $$

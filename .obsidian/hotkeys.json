@@ -41,5 +41,14 @@
       ],
       "key": "Q"
     }
+  ],
+  "obsidian-mind-map:app:markmap-preview": [],
+  "editor:toggle-source": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Tab"
+    }
   ]
 }
